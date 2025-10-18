@@ -1,4 +1,4 @@
-name: Android CI
+name: Android Testing CI
 on: [push]
 
 jobs:
